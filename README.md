@@ -23,8 +23,10 @@ LangGraph를 활용한 멀티 에이전트 운동 추천 시스템입니다.
 
 ## 🛠 기술 스택
 
+- **Python 3.10**
 - **LangGraph** - 멀티 에이전트 상태 머신 구성
 - **LangChain** - 프롬프트 템플릿 및 LLM 체인
+- **LangChain Community** - Ollama LLM 연동
 - **Ollama** (`exaone3.5:2.4b`) - 로컬 LLM 실행
 
 ---
