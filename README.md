@@ -60,6 +60,6 @@ pip install langchain langgraph langchain-community chromadb sqlite-utils
 
 ```
 ├── langgraph_exercise.ipynb   # 메인 노트북
-├── graph.png                  # LangGraph 구조 시각화
+├── graph.png                  # LangGraph 구조 시각화 및 출력 스크린샷
 └── README.md
 ```
