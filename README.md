@@ -7,7 +7,7 @@ LangGraph를 활용한 멀티 에이전트 운동 추천 시스템입니다.
 
 ## 📌 그래프 구조
 
-![graph](graph.png)
+![graph](images/graph.png)
 
 ---
 
